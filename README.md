@@ -2,14 +2,6 @@
 
 _An IT specialist, web developer and audio engineer from Berlin_
 
-## `Active Projects`
-
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=simonsagstetter&repo=kickbaselive)](https://github.com/simonsagstetter/kickbaselive)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=simonsagstetter&repo=cs2-mm-server-picker)](https://github.com/simonsagstetter/cs2-mm-server-picker)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=simonsagstetter&repo=feinanzeigen)](https://github.com/simonsagstetter/cs2-mm-server-picker)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinskyba&repo=kickbase-api-doc)](https://github.com/kevinskyba/kickbase-api-doc)
 ## `About Me`
 
 ```java
