@@ -95,6 +95,7 @@ public class Main {
 ![openapi](https://img.shields.io/badge/Openapi-6BA539?logo=openapiinitiative&logoColor=white&style=for-the-badge)
 ![Github](https://img.shields.io/badge/github-black?logo=github&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Coolify](https://img.shields.io/badge/coolify-6B16ED?logo=coolify&logoColor=white&style=for-the-badge)
 ![coderabbit](https://img.shields.io/badge/coderabbit-FF570A?logo=coderabbit&logoColor=white&style=for-the-badge)
 ![sonarqubecloud](https://img.shields.io/badge/sonarqube%20cloud-126ED3?logo=sonarqubecloud&logoColor=white&style=for-the-badge)
 ![Render](https://img.shields.io/badge/render-black?logo=render&logoColor=white&style=for-the-badge)
