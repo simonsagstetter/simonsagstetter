@@ -1,44 +1,6 @@
 # Hi 👋, I'm Simon
 
-_An IT specialist, java & full stack web developer, audio engineer from Berlin_
-
-### `Currently Working On:`
-
-
-[![ReadMe Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=simonsagstetter&repo=assemble)](https://github.com/simonsagstetter/assemble)
-
-
-### `About Me`
-
-```java
-public class Main {
-
-    public static class Me {
-
-        private final int       age         = 30;
-        public  final String    firstName   = "Simon";
-        private final String    residency   = "Berlin";
-        private final String[]  roles       = { "Salesforce Developer", "Full Stack Web Developer", "IT Consultant" };
-        private final String[]  languages   = { "German", "English", "Spanish" };
-        private final String[]  learning    = { "Spring Boot", "TypeScript", "NodeJS" };
-        private final String[]  interests   = { "React Native" };
-        public  final String[]  askMeAbout  = { "React", "JavaScript", "Audio Engineering", "Music Production"};
-
-        public Me(){}
-
-        public void greet(){
-            System.out.println("Hello visitor, nice to meet you! Thanks for dropping by :)");
-        }
-    }
-
-    public static void main(String[] args) {
-        Me simon = new Me();
-        simon.greet();
-    }
-
-}
-```
-
+_An IT specialist, java & full stack developer, audio engineer from Berlin_
 
 ### `Languages`
 
